@@ -2048,7 +2048,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
   font-family: Pp mori;
-  src: url("https://cdn.prod.website-files.com/68ea90d024df3e8fa4644b75/68f5ad7aa04559817cbe7f77_PPMori-SemiBold.woff2") format("woff2");
+  src: url("../assets/css_assets/css_media1.woff2") format("woff2");
   font-weight: 600;
   font-style: normal;
   font-display: swap;
@@ -2056,7 +2056,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
   font-family: Pp eiko;
-  src: url("https://cdn.prod.website-files.com/68ea90d024df3e8fa4644b75/68f5ad9c5331d6d1d570decc_PPEiko-Regular.woff2") format("woff2");
+  src: url("../assets/css_assets/css_media2.woff2") format("woff2");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -2064,7 +2064,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
   font-family: Pp eiko;
-  src: url("https://cdn.prod.website-files.com/68ea90d024df3e8fa4644b75/68f5adbe95f1c9a722c8c575_PPEiko-LightItalic.woff2") format("woff2");
+  src: url("../assets/css_assets/css_media3.woff2") format("woff2");
   font-weight: 300;
   font-style: italic;
   font-display: swap;
@@ -2072,7 +2072,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
   font-family: Pp eiko;
-  src: url("https://cdn.prod.website-files.com/68ea90d024df3e8fa4644b75/68f5adb7578a1e6baf9f7613_PPEiko-Light.woff2") format("woff2");
+  src: url("../assets/css_assets/css_media4.woff2") format("woff2");
   font-weight: 300;
   font-style: normal;
   font-display: swap;
@@ -2080,7 +2080,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
   font-family: "Vt 323";
-  src: url("https://cdn.prod.website-files.com/68ea90d024df3e8fa4644b75/68ea9287069e1baa70e54b5c_vt323-latin-400-normal.woff") format("woff");
+  src: url("../assets/css_assets/css_media5.woff") format("woff");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -2088,7 +2088,7 @@ textarea.w-input, textarea.w-select {
 
 @font-face {
   font-family: Fhlecturisroundeddp;
-  src: url("https://cdn.prod.website-files.com/68ea90d024df3e8fa4644b75/68fb144667498f97e3947cc4_FHLecturisRoundedDP-Regular.woff") format("woff");
+  src: url("../assets/css_assets/css_media6.woff") format("woff");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -2129,7 +2129,7 @@ body {
   text-rendering: geometricprecision;
   -webkit-user-select: none;
   user-select: none;
-  background-image: url("https://cdn.prod.website-files.com/68ea90d024df3e8fa4644b75/68ea91b44f1d778fd393ba71_TDP_scene_01_group_00_update.webp");
+  background-image: url("../assets/css_assets/css_media7.webp");
   background-position: 50% 25%;
   background-size: cover;
   max-width: 100vw;
@@ -2235,7 +2235,7 @@ blockquote {
 }
 
 .section.theme-1 {
-  background-image: url("https://cdn.prod.website-files.com/68ea90d024df3e8fa4644b75/68fabefea01a39e7159f73bf_Plus-Grid.svg");
+  background-image: url("../assets/css_assets/css_media8.svg");
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: contain;
@@ -2634,7 +2634,7 @@ blockquote {
 
 .intro {
   z-index: 9;
-  background-image: url("https://cdn.prod.website-files.com/68ea90d024df3e8fa4644b75/68fabefea01a39e7159f73bf_Plus-Grid.svg"), linear-gradient(#000, #000);
+  background-image: url("../assets/css_assets/css_media8.svg"), linear-gradient(#000, #000);
   background-position: 50%, 0 0;
   background-repeat: no-repeat, repeat;
   background-size: cover, auto;
@@ -2691,7 +2691,7 @@ blockquote {
 .cta__mask {
   z-index: -1;
   mix-blend-mode: normal;
-  background-image: url("https://cdn.prod.website-files.com/68ea90d024df3e8fa4644b75/69051ecfdd48fb9dd2039275_btn-mask.svg"), url("https://cdn.prod.website-files.com/68ea90d024df3e8fa4644b75/69051ecfdd48fb9dd2039275_btn-mask.svg");
+  background-image: url("../assets/css_assets/css_media9.svg"), url("../assets/css_assets/css_media9.svg");
   background-position: 100%, 0%;
   background-repeat: no-repeat, no-repeat;
   background-size: contain, contain;
@@ -2706,7 +2706,7 @@ blockquote {
 
 .error {
   z-index: 20;
-  background-image: url("https://cdn.prod.website-files.com/68ea90d024df3e8fa4644b75/68fabefea01a39e7159f73bf_Plus-Grid.svg"), linear-gradient(#000, #000);
+  background-image: url("../assets/css_assets/css_media8.svg"), linear-gradient(#000, #000);
   background-position: 50%, 0 0;
   background-repeat: no-repeat, repeat;
   background-size: auto, auto;
@@ -2729,7 +2729,7 @@ blockquote {
 .cta__bkg {
   z-index: -1;
   pointer-events: none;
-  background-image: url("https://cdn.prod.website-files.com/68ea90d024df3e8fa4644b75/69051b07fb56586afe0a71ee_btn-right.svg"), url("https://cdn.prod.website-files.com/68ea90d024df3e8fa4644b75/69051b07ffd744ece7afe92c_btn-left.svg");
+  background-image: url("../assets/css_assets/css_media10.svg"), url("../assets/css_assets/css_media11.svg");
   background-position: 100%, 0%;
   background-repeat: no-repeat, no-repeat;
   background-size: contain, contain;
